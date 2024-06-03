@@ -10,7 +10,7 @@
 
 ### | Linguagens que uso: |
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=gray)
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHPsilvas&size_weight=0.5&count_weight=0.5&theme=radical)
